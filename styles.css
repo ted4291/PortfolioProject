@@ -1,0 +1,119 @@
+    .navbar-brand {
+        background-color: #008080;
+        color:white;
+        font-weight:bold
+}
+    .divider-vertical {
+        height: 20px;
+        margin-top:14px;
+        width: 1px;
+        background-color:grey
+}
+    .navbar-right {
+        margin-right: 0px;
+}   
+
+/* Screen background */
+    .jumbotron h1 { 
+        color: #008080;
+        font-size: 2em;
+}
+    .jumbotron h3 {
+        height: 2px;
+        margin-left:auto;
+        margin-right:auto;
+        overflow: hidden;
+        background-color:darkgray;
+}
+
+    .jumbotron h4 img{
+        width: auto;
+        height:auto; 
+        float: left;   
+        padding-right: 20px;
+}
+
+/* Card container */
+    .card {
+        background-color:white;
+        padding:30px;
+        min-width: 450px;
+        overflow: hidden;
+}
+    .card h2 {
+        text-align:center;
+    
+}
+
+    .card h2 a {
+        color: red;
+        font-weight: bold
+}
+
+    .card h2 a:visited {
+        color: green;
+}
+
+    .card h2 a:hover {
+        color: pink;
+}
+
+    .card h2 a:active {
+        color: orange;
+}
+
+    .container h2 {
+        text-align:center;
+
+}
+    .container h2 a {
+        color: red;
+        font-weight: bold
+}
+
+    .container h2 a:visited {
+        color: green;
+}
+
+    .container h2 a:hover {
+        color: pink;
+}
+
+    .container h2 a:active {
+        color: orange;
+}
+
+    .thumbnail img {
+        height:390px;
+        width:auto;
+        background-color:#FFFFFF;
+        overflow: hidden;
+}
+
+    .thumbnail h4 {
+        position: absolute; 
+        color:white;
+        top: 290px;
+        text-align:center;
+        line-height: 70px;
+        font:serif;
+        font-size:30px; 
+        height:17%;
+        width: 93%; 
+        background-color: #008080;}
+
+    .navbar-brand {
+        background-color: #008080;
+        color:white;
+        font-weight:bold
+  }
+  
+    .divider-vertical{
+        height: 20px;
+        margin-top:14px;
+        width: 1px;
+        background-color:grey
+  }
+    .navbar-right {
+        margin-right: 0px;
+  }
